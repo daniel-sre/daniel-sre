@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**daniel-sre/daniel-sre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 DevOps / SRE Engineer (Learning)
+- ⚙️ Currently learning Go & automation tools
+- 🧠 Focus on infrastructure, networking, and system reliability
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- 🐹 Go
+- 🐧 Linux
+- 🐳 Docker
+- 🌐 Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Projects
+- 🔍 Port Scanner (Go)
+- 🌐 Website Checker
+- 📁 Backup Tool (tar/zip)
+
+## 📈 Goals
+- Build useful DevOps tools
+- Improve system design skills
+- Become a professional SRE
+
+## 📫 Contact
+- 📧 daniel.wang.devops@icloud.com

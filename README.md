@@ -1,25 +1,21 @@
 # Hi, I'm Daniel 👋
 
-## 🚀 About Me
-- 💻 DevOps / SRE Engineer (Learning)
-- ⚙️ Currently learning Go & automation tools
-- 🧠 Focus on infrastructure, networking, and system reliability
+🚀 DevOps / SRE (learning by building)
 
-## 🛠 Tech Stack
-- 🐹 Go
-- 🐧 Linux
-- 🐳 Docker
-- 🌐 Networking
+## 🔧 What I'm doing
+- Building network & automation tools in Go
+- Exploring system reliability and infrastructure
+- Practicing concurrency & CLI tool design
 
-## 📦 Projects
-- 🔍 Port Scanner (Go)
-- 🌐 Website Checker
-- 📁 Backup Tool (tar/zip)
+## 🧪 Featured Project
+- 🔍 Go Port Scanner  
+  Concurrent scanner with worker pool, JSON output, and file support
 
-## 📈 Goals
-- Build useful DevOps tools
-- Improve system design skills
-- Become a professional SRE
+## 🛠 Tech
+Go · Linux · Docker · Networking
+
+## 🎯 Goal
+Become a solid SRE with strong engineering skills
 
 ## 📫 Contact
-- 📧 daniel.wang.devops@icloud.com
+📧 daniel.wang.devops@icloud.com

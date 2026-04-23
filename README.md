@@ -4,18 +4,14 @@
 
 ## 🔧 What I'm doing
 - Building network & automation tools in Go
-- Exploring system reliability and infrastructure
-- Practicing concurrency & CLI tool design
+- Learning system reliability and infrastructure
 
 ## 🧪 Featured Project
 - 🔍 Go Port Scanner  
-  Concurrent scanner with worker pool, JSON output, and file support
+  Concurrent scanner with worker pool, JSON output, and CLI support
 
 ## 🛠 Tech
 Go · Linux · Docker · Networking
 
 ## 🎯 Goal
 Become a solid SRE with strong engineering skills
-
-## 📫 Contact
-📧 daniel.wang.devops@icloud.com
